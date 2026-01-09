@@ -15,7 +15,7 @@ This project performs **Exploratory Data Analysis (EDA)** on retail sales data u
 ---
 
 ## 📂 Dataset
--dataset used:[Download Dataset](https://drive.google.com/uc?export=download&id=17K3_Ckv-TFbtENQsxpDKJEZGhj82d95S)
+- Dataset used: [Download Dataset](https://drive.google.com/uc?export=download&id=17K3_Ckv-TFbtENQsxpDKJEZGhj82d95S)
 ---
 
 ## 🖼 Images / Plots
@@ -93,4 +93,4 @@ This project performs **Exploratory Data Analysis (EDA)** on retail sales data u
 ## 🎯 Career Relevance
 - Demonstrates strong skills in **Python, EDA, and data visualization**  
 - Highlights ability to analyze customer behavior and sales trends  
-- Suitable for **Data Analyst internships and entry-level roles**
+
