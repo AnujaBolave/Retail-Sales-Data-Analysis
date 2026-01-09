@@ -1,64 +1,97 @@
-# Retail Sales Data Analysis 📊
+# Retail Sales Data Analysis (EDA) 🛒📊
 
-## Project Overview
-This project focuses on analyzing retail sales data to identify sales trends, customer behavior, and product performance using Python and data analysis libraries.
+## 📌 Project Objective
+This project performs **Exploratory Data Analysis (EDA)** on retail sales data using Python and data analysis libraries. The objective is to analyze customer behavior, sales trends, and purchasing patterns to derive meaningful business insights.
 
-## Objectives
-- Understand overall sales performance  
-- Analyze sales trends over time  
-- Identify top-selling products and categories  
-- Support data-driven business decisions  
+---
 
-## Tools & Technologies
+## 🛠 Skills / Tools
 - Python  
 - Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
 
-## Key Analysis Performed
-- Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Sales trend analysis  
-- Product and category-wise performance analysis  
+---
+
+## 📂 Dataset
+- Dataset used: Retail Sales Dataset
 
 ---
 
-## 📈 Visualizations & Insights
+## 🖼 Images / Plots
 
-### 1️⃣ Monthly Sales Trend
-Shows how sales vary across months and helps identify seasonality.
-  
-![Monthly Sales Trend](images/monthly_sales_trend.png)
+### 1️⃣ Average Spending by Age Group and Gender
+![Average Spending by Age and Gender](images2/avg_spending_age_gender.png)
 
----
-
-### 2️⃣ Top 10 Products by Sales
-Highlights the best-performing products based on total sales.
-  
-![Top Products](images/top_10_products.png)
+**Insights:**
+- Highest spending is observed in the **30–39 age group**, indicating this segment as the most valuable.  
+- Female customers dominate spending in younger age groups.  
+- Spending decreases significantly in the **60+ age group**, suggesting conservative buying behavior.
 
 ---
 
-### 3️⃣ Category-wise Sales Distribution
-Compares sales contribution from different product categories.
-  
-![Category Sales](images/category_wise_sales.png)
+### 2️⃣ Bulk vs Small Quantity Purchases
+![Bulk vs Small Purchases](images2/bulk_vs_small_purchases.png)
+
+**Insights:**
+- Bulk and small quantity purchases are almost evenly split, showing balanced customer buying behavior.  
+- Slight dominance of bulk purchases indicates preference for stock-up buying.  
+- Both bulk discounts and small-quantity convenience strategies are effective.
 
 ---
 
-### 4️⃣ Sales by Region
-Displays regional performance to identify high and low revenue regions.
-  
-![Sales by Region](images/sales_by_region.png)
+### 3️⃣ Quantity Purchase Pattern by Age Group
+![Purchase Pattern by Age](images2/purchase_pattern_by_age.png)
+
+**Insights:**
+- Younger age groups prefer **bulk purchases**, indicating higher consumption needs.  
+- Middle-aged customers show a balanced mix of bulk and small purchases.  
+- Older customers (60+) prefer small quantity purchases.
 
 ---
 
-### 5️⃣ Quantity Sold vs Revenue
-Analyzes the relationship between quantity sold and total revenue.
-  
-![Quantity vs Revenue](images/quantity_vs_revenue.png)
+### 4️⃣ Seasonal Sales Trend by Product Category
+![Seasonal Sales Trend](images2/seasonal_sales_trend.png)
+
+**Insights:**
+- Clothing sales peak during the **summer season** due to seasonal demand.  
+- Electronics perform strongly during **winter and monsoon seasons**.  
+- Beauty products show consistent demand across all seasons.
 
 ---
 
-## 📂 Project Structure
+### 5️⃣ Spending Distribution by Age Group and Gender
+![Spending Distribution](images2/spending_by_age_gender.png)
+
+**Insights:**
+- High spending variability is seen in the **30–39 and 40–49 age groups**.  
+- Female customers show higher median spending in certain age groups.  
+- Spending becomes lower and more consistent in the **60+ group**.
+
+---
+
+## 📋 What it Does
+- Cleans and analyzes retail sales data  
+- Visualizes customer spending and purchasing patterns  
+- Identifies trends across age groups, gender, and seasons  
+
+---
+
+## 🏗 Steps / Approach
+1. **Data Cleaning** – Handle missing values and prepare data  
+2. **EDA** – Analyze spending, quantity, and seasonal trends  
+3. **Data Visualization** – Create charts to represent insights  
+4. **Insights** – Summarize key findings  
+
+---
+
+## 🗓 Submission Date
+08-01-2026  
+
+---
+
+## 🎯 Career Relevance
+- Demonstrates strong skills in **Python, EDA, and data visualization**  
+- Highlights ability to analyze customer behavior and sales trends  
+- Suitable for **Data Analyst internships and entry-level roles**
