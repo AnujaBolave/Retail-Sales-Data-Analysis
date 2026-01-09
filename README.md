@@ -15,8 +15,7 @@ This project performs **Exploratory Data Analysis (EDA)** on retail sales data u
 ---
 
 ## 📂 Dataset
--[Download Here](https://drive.google.com/drive/u/0/folders/1G3K4uiuEtdFxqzPg5r83zLEHwE1yUZYo)
-
+-dataset used:[Download Dataset](https://drive.google.com/uc?export=download&id=17K3_Ckv-TFbtENQsxpDKJEZGhj82d95S)
 ---
 
 ## 🖼 Images / Plots
